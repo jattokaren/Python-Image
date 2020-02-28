@@ -1,6 +1,5 @@
 # Python-Image
-Create a .csv file with a list of image files in a folder directory with some meta-data
-
+Create a .csv file with a list of image files in a folder directory with some meta-data to use a dataset for another application
 
 Create a Dictionary of Lists containing filenames (Images) + meta-data (size, create date, resolution, etc)
 <br>
